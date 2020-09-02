@@ -2,7 +2,7 @@
 Face recognition using OpenCV in python
 
 # Requiremets
-  Python 2.7 
+  Python 2.7
     OpenCV along with OpenCV_contrib
     pandas
     numpy
