@@ -4,8 +4,8 @@ Face recognition using OpenCV in python
 # Requiremets
   1.Python 2.7
   2.OpenCV along with OpenCV_contrib
-  3.pandas
-  4.numpy
+  3.Pandas
+  4.NumPy
 
 # Steps 
   1. Run face_datasets.py first to capture your images via OpenCV. Also remember the ID value that you entered.
